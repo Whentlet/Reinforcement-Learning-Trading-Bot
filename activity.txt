@@ -4,3 +4,4 @@ Activity on 2023-01-05T00:00:00 - Implement data processing
 Activity on 2023-01-11T00:00:00 - Update dependencies
 Activity on 2023-01-11T00:00:00 - Improve error handling
 Activity on 2023-01-12T00:00:00 - Add unit tests
+Activity on 2023-01-13T00:00:00 - Improve documentation
