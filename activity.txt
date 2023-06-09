@@ -50,3 +50,4 @@ Activity on 2023-06-02T00:00:00 - Refactor utility functions
 Activity on 2023-06-07T00:00:00 - Add unit tests
 Activity on 2023-06-09T00:00:00 - Add model training script
 Activity on 2023-06-09T00:00:00 - Add new feature
+Activity on 2023-06-09T00:00:00 - Improve error handling
