@@ -85,3 +85,4 @@ Activity on 2023-09-15T00:00:00 - Add new feature
 Activity on 2023-09-26T00:00:00 - Initial project setup
 Activity on 2023-09-26T00:00:00 - Enhance UI
 Activity on 2023-09-27T00:00:00 - Update README.md
+Activity on 2023-09-28T00:00:00 - Add logging
