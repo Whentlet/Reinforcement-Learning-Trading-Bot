@@ -104,3 +104,4 @@ Activity on 2023-10-26T00:00:00 - Refactor utility functions
 Activity on 2023-10-26T00:00:00 - Refactor utility functions
 Activity on 2023-10-26T00:00:00 - Clean up code
 Activity on 2023-11-02T00:00:00 - Add unit tests
+Activity on 2023-11-02T00:00:00 - Improve error handling
