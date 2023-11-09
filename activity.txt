@@ -108,3 +108,4 @@ Activity on 2023-11-02T00:00:00 - Improve error handling
 Activity on 2023-11-07T00:00:00 - Add new feature
 Activity on 2023-11-09T00:00:00 - Fix typo
 Activity on 2023-11-09T00:00:00 - Add logging
+Activity on 2023-11-09T00:00:00 - Fix API endpoint
