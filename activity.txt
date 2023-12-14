@@ -124,3 +124,4 @@ Activity on 2023-12-08T00:00:00 - Add model training script
 Activity on 2023-12-08T00:00:00 - Add new feature
 Activity on 2023-12-14T00:00:00 - Update requirements.txt
 Activity on 2023-12-14T00:00:00 - Refactor core logic
+Activity on 2023-12-14T00:00:00 - Improve documentation
